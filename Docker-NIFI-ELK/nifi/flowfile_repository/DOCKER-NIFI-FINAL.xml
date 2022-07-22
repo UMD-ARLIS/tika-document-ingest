@@ -2953,10 +2953,11 @@
     </entry>
     <entry>
         <key>Command Arguments</key>
+		<value>${user.dir}/flowfile_repository/parser_final.py</value>
     </entry>
     <entry>
         <key>Command Path</key>
-        <value>flowfile_repository/parser_final.py</value>
+        <value>python3</value>
     </entry>
     <entry>
         <key>Ignore STDIN</key>
